@@ -1,0 +1,621 @@
+{
+    "links": [
+        {
+            "url": "https://blog.archive.org/2023/03/25/the-fight-continues/",
+            "text": "stand with us!"
+        },
+        {
+            "url": "https://archive.org/",
+            "text": "Internet Archive logo\nA line drawing of the Internet Archive headquarters building fa\u00c3\u00a7ade."
+        },
+        {
+            "url": "https://archive.org/donate/?origin=iawww-mbhrt",
+            "text": "Donate icon\nAn illustration of a heart shape\n\n\n\n\"Donate to the archive\""
+        },
+        {
+            "url": "https://archive.org/create",
+            "text": "Upload icon\nAn illustration of a horizontal line over an up pointing arrow.\n\n\nUpload"
+        },
+        {
+            "url": "https://archive.org/account/signup",
+            "text": "Sign up"
+        },
+        {
+            "url": "https://archive.org/account/login",
+            "text": "Log in"
+        },
+        {
+            "url": "https://web.archive.org",
+            "text": "Web icon\nAn illustration of a computer application window\n\n\n\nWayback Machine"
+        },
+        {
+            "url": "https://archive.org/details/texts",
+            "text": "Texts icon\nAn illustration of an open book.\n\n\n\nBooks"
+        },
+        {
+            "url": "https://archive.org/details/movies",
+            "text": "Video icon\nAn illustration of two cells of a film strip.\n\n\n\nVideo"
+        },
+        {
+            "url": "https://archive.org/details/audio",
+            "text": "Audio icon\nAn illustration of an audio speaker.\n\n\n\n\n\n\n\n\nAudio"
+        },
+        {
+            "url": "https://archive.org/details/software",
+            "text": "Software icon\nAn illustration of a 3.5\" floppy disk.\n\n\n\nSoftware"
+        },
+        {
+            "url": "https://archive.org/details/image",
+            "text": "Images icon\nAn illustration of two photographs.\n\n\n\nImages"
+        },
+        {
+            "url": "https://archive.org/donate/",
+            "text": "Donate icon\nAn illustration of a heart shape\n\n\n\nDonate"
+        },
+        {
+            "url": "https://archive.org/about/",
+            "text": "Ellipses icon\nAn illustration of text ellipses.\n\n\n\nMore"
+        },
+        {
+            "url": "https://archive.org/details/etree",
+            "text": "Live Music Archive"
+        },
+        {
+            "url": "https://archive.org/details/librivoxaudio",
+            "text": "Librivox Free Audio"
+        },
+        {
+            "url": "https://archive.org/details/audio",
+            "text": "All Audio"
+        },
+        {
+            "url": "https://archive.org/search.php?query=mediatype:audio&sort=-publicdate",
+            "text": "This Just In"
+        },
+        {
+            "url": "https://archive.org/details/GratefulDead",
+            "text": "Grateful Dead"
+        },
+        {
+            "url": "https://archive.org/details/netlabels",
+            "text": "Netlabels"
+        },
+        {
+            "url": "https://archive.org/details/oldtimeradio",
+            "text": "Old Time Radio"
+        },
+        {
+            "url": "https://archive.org/details/78rpm",
+            "text": "78 RPMs and Cylinder Recordings"
+        },
+        {
+            "url": "https://archive.org/details/audio_bookspoetry",
+            "text": "Audio Books & Poetry"
+        },
+        {
+            "url": "https://archive.org/details/audio_tech",
+            "text": "Computers, Technology and Science"
+        },
+        {
+            "url": "https://archive.org/details/audio_music",
+            "text": "Music, Arts & Culture"
+        },
+        {
+            "url": "https://archive.org/details/audio_news",
+            "text": "News & Public Affairs"
+        },
+        {
+            "url": "https://archive.org/details/audio_religion",
+            "text": "Spirituality & Religion"
+        },
+        {
+            "url": "https://archive.org/details/podcasts",
+            "text": "Podcasts"
+        },
+        {
+            "url": "https://archive.org/details/radio",
+            "text": "Radio News Archive"
+        },
+        {
+            "url": "https://archive.org/details/metropolitanmuseumofart-gallery",
+            "text": "Metropolitan Museum"
+        },
+        {
+            "url": "https://archive.org/details/clevelandart",
+            "text": "Cleveland Museum of Art"
+        },
+        {
+            "url": "https://archive.org/details/image",
+            "text": "All Images"
+        },
+        {
+            "url": "https://archive.org/search.php?query=mediatype:image&sort=-publicdate",
+            "text": "This Just In"
+        },
+        {
+            "url": "https://archive.org/details/flickrcommons",
+            "text": "Flickr Commons"
+        },
+        {
+            "url": "https://archive.org/details/flickr-ows",
+            "text": "Occupy Wall Street Flickr"
+        },
+        {
+            "url": "https://archive.org/details/coverartarchive",
+            "text": "Cover Art"
+        },
+        {
+            "url": "https://archive.org/details/maps_usgs",
+            "text": "USGS Maps"
+        },
+        {
+            "url": "https://archive.org/details/nasa",
+            "text": "NASA Images"
+        },
+        {
+            "url": "https://archive.org/details/solarsystemcollection",
+            "text": "Solar System Collection"
+        },
+        {
+            "url": "https://archive.org/details/amesresearchcenterimagelibrary",
+            "text": "Ames Research Center"
+        },
+        {
+            "url": "https://archive.org/details/internetarcade",
+            "text": "Internet Arcade"
+        },
+        {
+            "url": "https://archive.org/details/consolelivingroom",
+            "text": "Console Living Room"
+        },
+        {
+            "url": "https://archive.org/details/software",
+            "text": "All Software"
+        },
+        {
+            "url": "https://archive.org/search.php?query=mediatype:software&sort=-publicdate",
+            "text": "This Just In"
+        },
+        {
+            "url": "https://archive.org/details/tosec",
+            "text": "Old School Emulation"
+        },
+        {
+            "url": "https://archive.org/details/softwarelibrary_msdos_games",
+            "text": "MS-DOS Games"
+        },
+        {
+            "url": "https://archive.org/details/historicalsoftware",
+            "text": "Historical Software"
+        },
+        {
+            "url": "https://archive.org/details/classicpcgames",
+            "text": "Classic PC Games"
+        },
+        {
+            "url": "https://archive.org/details/softwarelibrary",
+            "text": "Software Library"
+        },
+        {
+            "url": "https://archive.org/details/kodi_archive",
+            "text": "Kodi Archive and Support File"
+        },
+        {
+            "url": "https://archive.org/details/vintagesoftware",
+            "text": "Vintage Software"
+        },
+        {
+            "url": "https://archive.org/details/apkarchive",
+            "text": "APK"
+        },
+        {
+            "url": "https://archive.org/details/softwarelibrary_msdos",
+            "text": "MS-DOS"
+        },
+        {
+            "url": "https://archive.org/details/cd-roms",
+            "text": "CD-ROM Software"
+        },
+        {
+            "url": "https://archive.org/details/cdromsoftware",
+            "text": "CD-ROM Software Library"
+        },
+        {
+            "url": "https://archive.org/details/softwaresites",
+            "text": "Software Sites"
+        },
+        {
+            "url": "https://archive.org/details/tucows",
+            "text": "Tucows Software Library"
+        },
+        {
+            "url": "https://archive.org/details/cdbbsarchive",
+            "text": "Shareware CD-ROMs"
+        },
+        {
+            "url": "https://archive.org/details/softwarecapsules",
+            "text": "Software Capsules Compilation"
+        },
+        {
+            "url": "https://archive.org/details/cdromimages",
+            "text": "CD-ROM Images"
+        },
+        {
+            "url": "https://archive.org/details/softwarelibrary_zx_spectrum",
+            "text": "ZX Spectrum"
+        },
+        {
+            "url": "https://archive.org/details/doom-cds",
+            "text": "DOOM Level CD"
+        },
+        {
+            "url": "https://archive.org/details/inlibrary",
+            "text": "Books to Borrow"
+        },
+        {
+            "url": "https://openlibrary.org/",
+            "text": "Open Library"
+        },
+        {
+            "url": "https://archive.org/details/books",
+            "text": "All Books"
+        },
+        {
+            "url": "https://archive.org/details/texts",
+            "text": "All Texts"
+        },
+        {
+            "url": "https://archive.org/search.php?query=mediatype:texts&sort=-publicdate",
+            "text": "This Just In"
+        },
+        {
+            "url": "https://archive.org/details/smithsonian",
+            "text": "Smithsonian Libraries"
+        },
+        {
+            "url": "https://archive.org/details/fedlink",
+            "text": "FEDLINK (US)"
+        },
+        {
+            "url": "https://archive.org/details/genealogy",
+            "text": "Genealogy"
+        },
+        {
+            "url": "https://archive.org/details/lincolncollection",
+            "text": "Lincoln Collection"
+        },
+        {
+            "url": "https://archive.org/details/americana",
+            "text": "American Libraries"
+        },
+        {
+            "url": "https://archive.org/details/toronto",
+            "text": "Canadian Libraries"
+        },
+        {
+            "url": "https://archive.org/details/universallibrary",
+            "text": "Universal Library"
+        },
+        {
+            "url": "https://archive.org/details/gutenberg",
+            "text": "Project Gutenberg"
+        },
+        {
+            "url": "https://archive.org/details/iacl",
+            "text": "Children's Library"
+        },
+        {
+            "url": "https://archive.org/details/biodiversity",
+            "text": "Biodiversity Heritage Library"
+        },
+        {
+            "url": "https://archive.org/details/booksbylanguage",
+            "text": "Books by Language"
+        },
+        {
+            "url": "https://archive.org/details/additional_collections",
+            "text": "Additional Collections"
+        },
+        {
+            "url": "https://archive.org/details/tv",
+            "text": "TV News"
+        },
+        {
+            "url": "https://archive.org/details/911",
+            "text": "Understanding 9/11"
+        },
+        {
+            "url": "https://archive.org/details/movies",
+            "text": "All Video"
+        },
+        {
+            "url": "https://archive.org/search.php?query=mediatype:movies&sort=-publicdate",
+            "text": "This Just In"
+        },
+        {
+            "url": "https://archive.org/details/prelinger",
+            "text": "Prelinger Archives"
+        },
+        {
+            "url": "https://archive.org/details/democracy_now_vid",
+            "text": "Democracy Now!"
+        },
+        {
+            "url": "https://archive.org/details/occupywallstreet",
+            "text": "Occupy Wall Street"
+        },
+        {
+            "url": "https://archive.org/details/nsa",
+            "text": "TV NSA Clip Library"
+        },
+        {
+            "url": "https://archive.org/details/animationandcartoons",
+            "text": "Animation & Cartoons"
+        },
+        {
+            "url": "https://archive.org/details/artsandmusicvideos",
+            "text": "Arts & Music"
+        },
+        {
+            "url": "https://archive.org/details/computersandtechvideos",
+            "text": "Computers & Technology"
+        },
+        {
+            "url": "https://archive.org/details/culturalandacademicfilms",
+            "text": "Cultural & Academic Films"
+        },
+        {
+            "url": "https://archive.org/details/ephemera",
+            "text": "Ephemeral Films"
+        },
+        {
+            "url": "https://archive.org/details/moviesandfilms",
+            "text": "Movies"
+        },
+        {
+            "url": "https://archive.org/details/newsandpublicaffairs",
+            "text": "News & Public Affairs"
+        },
+        {
+            "url": "https://archive.org/details/spiritualityandreligion",
+            "text": "Spirituality & Religion"
+        },
+        {
+            "url": "https://archive.org/details/sports",
+            "text": "Sports Videos"
+        },
+        {
+            "url": "https://archive.org/details/television",
+            "text": "Television"
+        },
+        {
+            "url": "https://archive.org/details/gamevideos",
+            "text": "Videogame Videos"
+        },
+        {
+            "url": "https://archive.org/details/vlogs",
+            "text": "Vlogs"
+        },
+        {
+            "url": "https://archive.org/details/youth_media",
+            "text": "Youth Media"
+        },
+        {
+            "url": "https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/",
+            "text": "web pages"
+        },
+        {
+            "url": "https://web.archive.org",
+            "text": ""
+        },
+        {
+            "url": "https://apps.apple.com/us/app/wayback-machine/id1201888313",
+            "text": "Wayback Machine (iOS)"
+        },
+        {
+            "url": "https://play.google.com/store/apps/details?id=com.archive.waybackmachine&hl=en_US",
+            "text": "Wayback Machine (Android)"
+        },
+        {
+            "url": "https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak",
+            "text": "Chrome"
+        },
+        {
+            "url": "https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/",
+            "text": "Firefox"
+        },
+        {
+            "url": "https://apps.apple.com/us/app/wayback-machine/id1472432422?mt=12",
+            "text": "Safari"
+        },
+        {
+            "url": "https://microsoftedge.microsoft.com/addons/detail/wayback-machine/kjmickeoogghaimmomagaghnogelpcpn?hl=en-US",
+            "text": "Edge"
+        },
+        {
+            "url": "https://www.archive-it.org/explore",
+            "text": "Explore the Collections"
+        },
+        {
+            "url": "https://www.archive-it.org/blog/learn-more/",
+            "text": "Learn More"
+        },
+        {
+            "url": "https://www.archive-it.org/contact-us",
+            "text": "Build Collections"
+        },
+        {
+            "url": "https://archive.org/about/",
+            "text": "About"
+        },
+        {
+            "url": "https://blog.archive.org",
+            "text": "Blog"
+        },
+        {
+            "url": "https://archive.org/projects/",
+            "text": "Projects"
+        },
+        {
+            "url": "https://archive.org/about/faqs.php",
+            "text": "Help"
+        },
+        {
+            "url": "https://archive.org/donate?origin=iawww-TopNavDonateButton",
+            "text": "Donate"
+        },
+        {
+            "url": "https://archive.org/about/contact.php",
+            "text": "Contact"
+        },
+        {
+            "url": "https://archive.org/about/jobs.php",
+            "text": "Jobs"
+        },
+        {
+            "url": "https://archive.org/about/volunteerpositions.php",
+            "text": "Volunteer"
+        },
+        {
+            "url": "https://archive.org/about/bios.php",
+            "text": "People"
+        },
+        {
+            "url": "https://archive.org/account/signup",
+            "text": "Sign up for free"
+        },
+        {
+            "url": "https://archive.org/account/login",
+            "text": "Log in"
+        },
+        {
+            "url": "https://archive.org/advancedsearch.php",
+            "text": "Advanced Search"
+        },
+        {
+            "url": "https://archive.org/about/",
+            "text": "About"
+        },
+        {
+            "url": "https://blog.archive.org",
+            "text": "Blog"
+        },
+        {
+            "url": "https://archive.org/projects/",
+            "text": "Projects"
+        },
+        {
+            "url": "https://archive.org/about/faqs.php",
+            "text": "Help"
+        },
+        {
+            "url": "https://archive.org/donate?origin=iawww-TopNavDonateButton",
+            "text": "Donate\n\nDonate icon\nAn illustration of a heart shape"
+        },
+        {
+            "url": "https://archive.org/about/contact.php",
+            "text": "Contact"
+        },
+        {
+            "url": "https://archive.org/about/jobs.php",
+            "text": "Jobs"
+        },
+        {
+            "url": "https://archive.org/about/volunteerpositions.php",
+            "text": "Volunteer"
+        },
+        {
+            "url": "https://archive.org/about/bios.php",
+            "text": "People"
+        },
+        {
+            "url": "#",
+            "text": ""
+        },
+        {
+            "url": "#",
+            "text": ""
+        },
+        {
+            "url": "mailto:info@archive.org",
+            "text": "info@archive.org"
+        },
+        {
+            "url": "//archive.org/",
+            "text": "Internet Archive"
+        },
+        {
+            "url": "//archive.org/projects/",
+            "text": "projects"
+        },
+        {
+            "url": "https://openlibrary.org/",
+            "text": "Open Library"
+        },
+        {
+            "url": "https://archive-it.org",
+            "text": "archive-it.org"
+        },
+        {
+            "url": "//archive.org/about/terms.php",
+            "text": "Terms of Use"
+        }
+    ],
+    "input_options": [
+        {
+            "type": "hidden",
+            "name": null,
+            "value": "[]"
+        },
+        {
+            "type": "text",
+            "name": "query",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "name": "url",
+            "value": null
+        },
+        {
+            "type": "text",
+            "name": "url_preload",
+            "value": null
+        },
+        {
+            "type": "submit",
+            "name": null,
+            "value": "Save"
+        },
+        {
+            "type": "radio",
+            "name": "sin",
+            "value": ""
+        },
+        {
+            "type": "radio",
+            "name": "sin",
+            "value": "TXT"
+        },
+        {
+            "type": "radio",
+            "name": "sin",
+            "value": "TV"
+        },
+        {
+            "type": "radio",
+            "name": "sin",
+            "value": "RADIO"
+        },
+        {
+            "type": "radio",
+            "name": "sin",
+            "value": "WEB"
+        },
+        {
+            "type": "hidden",
+            "name": null,
+            "value": "{\"ands\":[],\"minday\":\"06/04/2009\",\"maxday\":\"04/21/2024\"}"
+        }
+    ]
+}
